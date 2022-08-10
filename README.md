@@ -7,9 +7,9 @@
 * Gained popularity because of its clear syntax and readability
 
 ## Why Learn Python?
-Python’s syntax is very easy to understand. The lines of code required for a task is less compared to other languages. Let me give you an example – If I have to print “Welcome To Edureka!”  all I have to type:
+Python’s syntax is very easy to understand. The lines of code required for a task is less compared to other languages. Let me give you an example – If I have to print “Hello World”  all I have to type:
 
-print (“Welcome To Edureka!”)
+print (“Hello world”)
 
 Let’s see, What experts have to say about Python:
 
