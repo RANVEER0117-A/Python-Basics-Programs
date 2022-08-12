@@ -1,5 +1,12 @@
 # 1. Learn Basics Concept of Python
 
+<a
+href="https://pypi.org/project/Python">
+<img 
+src="https://img.shields.io/badge/dependency-Python-red?
+logo=python.+js&logoColor=white" 
+alt="dependency - Python"></a>
+
 ## What is Python?
 * Created in 1991 by Guido Van Rossum
 * Named after Monty Python’s Flying Circus
