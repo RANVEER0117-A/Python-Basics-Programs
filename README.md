@@ -2,10 +2,8 @@
 
 <a
 href="https://www.python.org/">
-<img 
-src="https://img.shields.io/badge/dependency-
-Python-red?
-logo=python.+js&logoColor=white" 
+<img src="https://img.shields.io/badge/dependency-Python-red?
+logo=python&logoColor=white"
 alt="dependency - Python"></a>
 
 ## What is Python?
