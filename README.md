@@ -1,9 +1,10 @@
 # 1. Learn Basics Concept of Python
 
 <a
-href="https://pypi.org/project/Python">
+href="https://www.python.org/">
 <img 
-src="https://img.shields.io/badge/dependency-Python-red?
+src="https://img.shields.io/badge/dependency-
+Python-red?
 logo=python.+js&logoColor=white" 
 alt="dependency - Python"></a>
 
